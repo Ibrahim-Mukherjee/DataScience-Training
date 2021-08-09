@@ -1,5 +1,4 @@
-# DataScienceTraining
-Graduate Data Science trainingpack
+# DataScienceTraining #Python #Syntax #Basic Python
 
 Graduate Data Science Training  Updated 9 minutes ago 
 
