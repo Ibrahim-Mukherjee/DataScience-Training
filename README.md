@@ -13,3 +13,7 @@ Getting used to working with data - including data frames and functions.
 Looking at algorithms for Machine Learning - including problems in NLP and Vision Detection. 
 
 Business case studies - looking at importing data using Cad spy, SQL, critical problem solving and graphing using Python. Basic computer science topics to do with Machine Learning in Python are also covered.
+
+Watch my YouTube channel for this and more interesting insights:-
+https://www.youtube.com/watch?v=y28wyj7Zd6g
+
