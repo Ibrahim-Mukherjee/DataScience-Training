@@ -1,4 +1,4 @@
-# DataScienceTraining #Python #Syntax #Basic Python
+# DataScienceTraining #Python #Syntax #Basic Python #Regression #Classification #Case Studies
 
 Graduate Data Science Training  Updated 9 minutes ago 
 
