@@ -1,7 +1,10 @@
 # DataScienceTraining
 Graduate Data Science trainingpack
 
-Graduate Data Science Training  Updated 9 minutes ago This repository is for graduate data science training in Python.  
+Graduate Data Science Training  Updated 9 minutes ago 
+
+This repository is for graduate data science training in Python.  
+
 The data science training pack is used to cover material including :-  
 
 Basic Material - how to add, subtract, use functions and lambda operators in Python. 
