@@ -4,16 +4,8 @@ Graduate Data Science Training  Updated 9 minutes ago
 
 This repository is for graduate data science training in Python.  
 
-The data science training pack is used to cover material including :-  
-
-Basic Material - how to add, subtract, use functions and lambda operators in Python. 
-
-Getting used to working with data - including data frames and functions. 
-
-Looking at algorithms for Machine Learning - including problems in NLP and Vision Detection. 
-
-Business case studies - looking at importing data using Cad spy, SQL, critical problem solving and graphing using Python. Basic computer science topics to do with Machine Learning in Python are also covered.
-
-Watch my YouTube channel for this and more interesting insights:-
-https://www.youtube.com/watch?v=y28wyj7Zd6g
-
+1. Python Syntax
+2. Basic Machine Learning algorithms
+3. Advanced Machine Learning algorithms
+4. Business Case Studies
+5. Interesting solutions from other websites.
